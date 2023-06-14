@@ -1,0 +1,52 @@
+.hello{
+    color: #704E2E;
+}
+
+.title{
+    color: beige;
+}
+
+.nephi{
+    font-size: 20px;
+}
+
+.sam{
+    font-style: none;
+    font-size: 19px;
+    font-weight: 100;
+}
+
+.faith{
+    display: flex;
+  	align-items: center; /* aligns all the items vertically centered */
+  	justify-content: center; 
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+      
+}
+
+.help{
+    height: 5px;
+    
+}
+.izz{
+    font-size: 12px;
+    font-size: 10;
+}
+
+.quick_fix{
+    margin-top: 30px;
+}
+
+.extra{
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+li{
+    margin-left: 20px
+}
